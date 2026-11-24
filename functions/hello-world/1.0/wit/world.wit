@@ -1,0 +1,9 @@
+package betty-blocks:hello-world@1.0.0;
+
+interface hello-world {
+    hello-world: func() -> string;
+}
+
+world main {
+    export hello-world;
+}
