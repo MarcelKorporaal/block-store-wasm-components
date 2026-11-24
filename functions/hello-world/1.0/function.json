@@ -1,0 +1,23 @@
+{
+  "category": "Misc",
+  "description": "Return the text \"Hello world!\"",
+  "icon": {
+    "color": "Orange",
+    "name": "ActionsIcon"
+  },
+  "label": "Hello world",
+  "options": [
+    {
+      "meta": {
+        "type": "Output",
+        "output": {
+          "type": "Text"
+        }
+      },
+      "name": "result",
+      "label": "Result",
+      "info": "The text \"Hello world!\""
+    }
+  ],
+  "yields": "NONE"
+}
